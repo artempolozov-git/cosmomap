@@ -212,7 +212,7 @@
         grid-row-gap: 30px;
     }
 }
-@media only screen and (max-width : 375px) {
+@media only screen and (max-width : 550px) {
     .avatar,.avatar-anastasia,.avatar-evgenia,.avatar-anna {
         display: none;
     }

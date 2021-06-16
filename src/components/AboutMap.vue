@@ -190,7 +190,7 @@
         margin-right: 15px;
     }
 }
-@media only screen and (max-width : 375px) {
+@media only screen and (max-width : 550px) {
     .description-map {
         width: 100%;
     }
