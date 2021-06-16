@@ -19,7 +19,7 @@
                     <div class="title-slider">Карта звёздного неба<br>
                         размер рамки 30х40см (А3)</div>
                     <div class="preview-a3"><img src="@/assets/icons/A3.svg"></div>
-                    <div class="map-price">1300₽</div>
+                    <div class="map-price">1600₽</div>
                 </div>
             </slide>
             <slide>
@@ -397,7 +397,7 @@
         height: 360px;
     }
 }
-@media only screen and (max-width : 600px) {
+@media only screen and (max-width : 800px) {
     .price {
         margin-top: 50px;
     }

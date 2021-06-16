@@ -100,7 +100,7 @@
         margin-top: 30px;
     }
 }
-@media only screen and (max-width : 800px) {
+@media only screen and (max-width : 900px) {
     .first-screen {
         padding: 50px;
     }
