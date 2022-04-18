@@ -13,7 +13,7 @@
             <a target="_blank" class="inst" href="https://www.instagram.com/cosmomap/"><img src="@/assets/icons/instagram-logo.svg"></a>
             <a target="_blank" class="email" href="mailto:cosmomap@mail.ru"><img src="@/assets/icons/email.svg"></a>
         </div>
-        <a class="develop" href="https://rampix.ru/">Разработка сайта- rampix.ru</a>
+        <!--<a class="develop" href="https://rampix.ru/">Разработка сайта- rampix.ru</a>-->
     </div>
 </template>
 
